@@ -13,9 +13,29 @@
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "bossesIcon.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "192x192"
+    },
+    {
+      "src": "highAlchemyIcon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "searchIcon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "skillsIcon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "geIcon.png",
+      "type": "image/png",
+      "sizes": "192x192"
     }
   ],
   "start_url": ".",
